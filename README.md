@@ -69,7 +69,7 @@ If you want to get inspiration or just show something directly to your clients, 
 ## Quick start
 
 - `npm i nextjs-argon-dashboard`
-- [Download from Github](https://github.com/creativetimofficial/nextjs-argon-dashboard/archive/master.zip).
+- [Download from Github](https://github.com/priyonggo/nextjs-argon-dashboard/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/nextjs-argon-dashboard?ref=njsad-github-readme).
 - Install with [Bower](https://bower.io/?ref=creativetim): ```bower install nextjs-argon-dashboard```.
 - Clone the repo: `git clone https://github.com/priyonggo/nextjs-argon-dashboard.git`.
